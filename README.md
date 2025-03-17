@@ -18,7 +18,7 @@ Uma aplicação web simples para realizar sorteios de amigo secreto. Permite adi
 
 - HTML5
 - CSS3 (Variáveis customizadas, Flexbox)
-- JavaScript Vanilla
+- JavaScript 
 
 ## ▶️ Como Usar
 
